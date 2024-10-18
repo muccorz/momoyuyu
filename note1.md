@@ -104,5 +104,10 @@ LRU（Least Recently Used，最近最少使用）<br>
 
 ---
 
+丸め誤差（rounding error）舍入误差<br>
+指在数值计算中，当一个数值无法用有限的位数精确表示时，系统需要将其近似为一个可表示的数，这样就会产生误差。
+
+---
+
 SQL注入（SQL Injection）
 
