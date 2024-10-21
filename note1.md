@@ -111,3 +111,6 @@ LRU（Least Recently Used，最近最少使用）<br>
 
 SQL注入（SQL Injection）
 
+---
+![image](https://github.com/user-attachments/assets/04330b55-ad00-4cf9-86ea-f07482563d9e)
+
